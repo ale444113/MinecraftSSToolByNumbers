@@ -17,8 +17,8 @@ If this ss tool found something strange the colors will change, you can see this
 
 # Important note
 <br>
-This ss tool is in *alpha*, any if you find any bug please create an issue so I can check it. 
-There will be improvements in this ss tool soon.
+This ss tool is in *alpha*, any if you find any bug please create an issue so I can check it.  <br>
+There will be improvements in this ss tool soon. <br>
 Thank you for reading this, att: numbers.
 
 
