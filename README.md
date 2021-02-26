@@ -6,7 +6,7 @@
 This SS tool provides some useful scans such the scan of the .minecraft, logs of the temp, downloads and prefetch. <br>
 If this ss tool found something strange the colors will change, you can see this better in the next part.
 
-* **Color meanings** *
+* **Color meanings** * <br>
   *Color blue*<br>
   This is a .zip file you should check it but it should be normal, some people try to bypass hacks in this type of files so please cheack that.
   *Color red*<br>
@@ -15,7 +15,7 @@ If this ss tool found something strange the colors will change, you can see this
   This is a .exe, it could be just normal but you should check it because most of the ghost clients which are externals are located in this type of file, I recomend you to <br>
   check it.<br>
 
-#Important note
+# Important note
 <br>
 This ss tool is in **alpha**, any if you find any bug please create an issue so I can check it. 
 There will be improvements in this ss tool soon.
